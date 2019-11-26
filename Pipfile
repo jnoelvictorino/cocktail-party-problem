@@ -12,7 +12,9 @@ soundfile = "*"
 jupyter-contrib-nbextensions = "*"
 pandas = "*"
 matplot = "*"
-lzma = "*"
+pyroomacoustics = "*"
+cookiecutter = "*"
+librosa = "*"
 
 [requires]
 python_version = "3.7"
